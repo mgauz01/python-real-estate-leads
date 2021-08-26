@@ -1,6 +1,6 @@
 #!/bin/bash
 
-if [ ! -f ./scripts/CITY_TO_STATE.py ] || [ ! -f ./scripts/craiglist_scrapper.py ] || [ ! -f ./scripts/email_real_estate.py ]
+if [ ! -f ./CITY_TO_STATE.py ] || [ ! -f ./craiglist_scrapper.py ] || [ ! -f ./email_real_estate.py ]
 then 
     echo "Hello"
 fi
